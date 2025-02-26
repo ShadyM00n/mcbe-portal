@@ -1,0 +1,23 @@
+{
+  "name": "mcbe-portal-tmp",
+  "version": "0.0.4",
+  "description": "Connect bedrock servers together using mcbe-portal, manage your servers with ease.",
+  "main": "index.js",
+  "repository": {"url": ""},
+  "keywords": [
+    "mcbe",
+    "minecraft",
+    "database",
+    "bedrock",
+    "framework"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "update": "npm version patch && npm publish"
+  },
+  "author": "ShadyMoon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
