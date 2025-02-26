@@ -13,7 +13,7 @@
 To install `mcbe-portal` in your project, run:
 
 ```bash
-npm install mcbe-portal-tmp
+npm install mcbe-portal
 ```
 
 ## Usage
