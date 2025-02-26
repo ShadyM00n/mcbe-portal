@@ -23,7 +23,7 @@ npm install mcbe-portal-tmp
 Below is an example of how to configure and use the portal to manage your Minecraft Bedrock Edition servers:
 
 ```javascript
-const Portal = require("mcbe-portal-tmp");
+const Portal = require("mcbe-portal");
 
 const portal = new Portal({
     backups: {
